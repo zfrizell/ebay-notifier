@@ -1,0 +1,22 @@
+{
+  "name": "ebay-notifier",
+  "version": "1.0.0",
+  "description": "A program to notify me when the auction for a specific product is almost over and is below a specified price.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfrizell/ebay-notifier.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zfrizell/ebay-notifier/issues"
+  },
+  "homepage": "https://github.com/zfrizell/ebay-notifier#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
